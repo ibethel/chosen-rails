@@ -4,6 +4,8 @@
 
 The `chosen-rails` gem integrates the `Chosen` with the Rails asset pipeline.
 
+This particular fork/branch was created to address https://github.com/harvesthq/chosen/pull/166.
+
 ## Usage
 
 ### Install chosen-rails gem
